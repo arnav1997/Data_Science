@@ -1,2 +1,2 @@
 # Data_Science
-Learnbay course repo
+Data Science course repo
